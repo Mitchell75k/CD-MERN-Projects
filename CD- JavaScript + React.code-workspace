@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../CD- JavaScript + React"
+		},
+		{
+			"path": "../../Downloads/HelloExpress"
+		},
+		{
+			"path": "../jokes"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../MERN-Exam"
+		},
+		{
+			"path": "../CD-Projects"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
